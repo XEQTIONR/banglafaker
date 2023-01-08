@@ -21,8 +21,6 @@
         "illuminate/support": "^8.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^6.0",
-        "phpunit/phpunit": "^9.5"
     },
     "autoload": {
         "psr-4": {
@@ -32,16 +30,11 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Tusharkhan\\Banglafaker\\Tests\\": "tests"
         },
         "classmap": [
-            "tests"
         ]
     },
     "scripts": {
-        "test": "../../../app/vendor/bin/phpunit",
-        "test-coverage": "../../../app/vendor/bin/phpunit --coverage-html coverage"
-
     },
     "config": {
         "sort-packages": true
