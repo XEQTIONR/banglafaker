@@ -6,7 +6,7 @@
  */
 
 
-namespace Tusharkhan\BanglaFaker\Facade;
+namespace Xeqtionr\BanglaFaker\Facade;
 
 use Illuminate\Support\Facades\Facade;
 

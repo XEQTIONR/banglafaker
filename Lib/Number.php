@@ -6,10 +6,10 @@
  */
 
 
-namespace Tusharkhan\BanglaFaker\Lib;
+namespace Xeqtionr\BanglaFaker\Lib;
 
 
-use Tusharkhan\Banglafaker\BanglaFaker;
+use Xeqtionr\Banglafaker\BanglaFaker;
 
 class Number extends BanglaFaker
 {

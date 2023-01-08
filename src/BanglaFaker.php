@@ -1,15 +1,15 @@
 <?php
 
-namespace Tusharkhan\BanglaFaker;
+namespace Xeqtionr\BanglaFaker;
 
 
 
 class BanglaFaker extends BaseFaker
 {
     public static $childClasses = [
-        '\\Tusharkhan\\BanglaFaker\\Lib\\Address', '\\Tusharkhan\\BanglaFaker\\Lib\\Number', "\\Tusharkhan\\BanglaFaker\\Lib\\Phone",
-        '\\Tusharkhan\\BanglaFaker\\Lib\\Utils', '\\Tusharkhan\\BanglaFaker\\Lib\\Date', '\\Tusharkhan\\BanglaFaker\\Lib\\Color',
-        '\\Tusharkhan\\BanglaFaker\\Lib\\Lorem', '\\Tusharkhan\\BanglaFaker\\Lib\\Person'
+        '\\Xeqtionr\\BanglaFaker\\Lib\\Address', '\\Xeqtionr\\BanglaFaker\\Lib\\Number', "\\Xeqtionr\\BanglaFaker\\Lib\\Phone",
+        '\\Xeqtionr\\BanglaFaker\\Lib\\Utils', '\\Xeqtionr\\BanglaFaker\\Lib\\Date', '\\Xeqtionr\\BanglaFaker\\Lib\\Color',
+        '\\Xeqtionr\\BanglaFaker\\Lib\\Lorem', '\\Xeqtionr\\BanglaFaker\\Lib\\Person'
     ];
 
 

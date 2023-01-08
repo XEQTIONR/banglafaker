@@ -6,10 +6,10 @@
  */
 
 
-namespace Tusharkhan\BanglaFaker\Lib;
+namespace Xeqtionr\BanglaFaker\Lib;
 
 use Illuminate\Support\Carbon;
-use Tusharkhan\BanglaFaker\BanglaFaker;
+use Xeqtionr\BanglaFaker\BanglaFaker;
 
 class Date extends BanglaFaker
 {

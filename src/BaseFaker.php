@@ -6,9 +6,9 @@
  */
 
 
-namespace Tusharkhan\BanglaFaker;
+namespace Xeqtionr\BanglaFaker;
 
-use Tusharkhan\BanglaFaker\Lib\Number;
+use Xeqtionr\BanglaFaker\Lib\Number;
 
 class BaseFaker
 {

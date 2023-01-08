@@ -1,6 +1,6 @@
 <?php
 
-namespace Tusharkhan\BanglaFaker;
+namespace Xeqtionr\BanglaFaker;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -50,7 +50,7 @@ class BanglaFakerServiceProvider extends ServiceProvider
     public function register()
     {
         // Automatically apply the package configuration
-//        $this->mergeConfigFrom(__DIR__ . '/../tusharKhan/Faker/config/config.php', 'banglafaker');
+//        $this->mergeConfigFrom(__DIR__ . '/../xeqtionr/Faker/config/config.php', 'banglafaker');
 
         // Register the main class to use with the facade
         $this->app->singleton('BanglaFaker', function () {

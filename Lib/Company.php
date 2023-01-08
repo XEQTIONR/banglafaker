@@ -6,9 +6,9 @@
  */
 
 
-namespace Tusharkhan\BanglaFaker\Lib;
+namespace Xeqtionr\BanglaFaker\Lib;
 
-use Tusharkhan\BanglaFaker\BanglaFaker;
+use Xeqtionr\BanglaFaker\BanglaFaker;
 
 class Company extends BanglaFaker
 {
